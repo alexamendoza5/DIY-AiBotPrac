@@ -90,10 +90,10 @@
     --accent: #ffd166;          /* Highlight color (sunny yellow). Used for headings inside the bot's replies and the 3rd typing dot. */
 
     /* ----- Backgrounds & text ----- */
-    --background: #0f1030;      /* The color behind the whole page (dark navy). */
+    --background: #dd3c9c;      /* The color behind the whole page (dark navy). */
     --surface: #1b1d44;         /* The color of the big cards: the chat box. */
     --surface-2: #262a5a;       /* A slightly lighter color for "inner" areas: the bot's message bubbles and the typing boxes. */
-    --text-primary: #f2f1ff;    /* Main text color (almost white). If you make the backgrounds light, make this dark! */
+    --text-primary: #8221b6;    /* Main text color (almost white). If you make the backgrounds light, make this dark! */
     --text-secondary: #a7abdb;  /* Softer text color (light lavender) for labels and small notes. */
 
     /* ----- The emoji your assistant uses as its face ----- */
@@ -105,7 +105,7 @@
        3. Search "Picture version" and uncomment the two rules under it
           (one for the top badge, one for the bot's messages).
        To go back to an emoji, undo all three steps. */
-    --bot-face: url("assets/OIP.jpeg"); /* Your picture: the folder name, a slash, then the file name. */
+    --bot-face: url("assets/doraaaa.webp"); /* Your picture: the folder name, a slash, then the file name. */
 
     /* ----- Motion ----- */
     --transition-speed: 0.25s;  /* How fast things smoothly change, like a button lifting when you hover over it. Bigger = slower (try 0.6s). */
